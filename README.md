@@ -5,11 +5,11 @@
 <h3 align="center">Turning data into magic one pipeline at a time ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umaimahashmi&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="visitors"/>
+  <img src="https://visitcount.itsvg.in/api?id=umaimahashmi&label=Profile%20Views&color=12&icon=0&pretty=true" alt="visitors"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2JpdG9uL3N0YXRpYy8xMjM0NTY3ODkvcGFpcnMub2YubWFnaWMuc3RhcnMubGlnaHRuaW5nLmdpZg==/giphy.gif" width="420" alt="magic data gif"/>
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="420" alt="magic data gif"/>
 </p>
 
 **Hi, I'm Umaima Hashmi** 💖  
