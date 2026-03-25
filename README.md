@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api/gen?type=wave&color=0A66C2,FF69B4&height=280&section=header&text=UMAIMA%20HASHMI&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2,FF69B4&height=280&section=header&text=UMAIMA%20HASHMI&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%" alt="header"/>
 </div>
 
 <h3 align="center">Turning data into magic one pipeline at a time ✨</h3>
