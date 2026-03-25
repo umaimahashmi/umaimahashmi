@@ -1,12 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2,FF69B4&height=280&section=header&text=UMAIMA%20HASHMI&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%" alt="header"/>
-</div>
 
 <h3 align="center">Turning data into magic one pipeline at a time ✨</h3>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=umaimahashmi&label=Profile%20Views&color=12&icon=0&pretty=true" alt="visitors"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="420" alt="magic data gif"/>
